@@ -122,11 +122,13 @@
   .navList {
     display: none;
   }
+  .imageBG {
+    display: none;
+  }
   .heading {
     width: 100%;
     height: 70%;
   }
-
   .primaryTitle {
     font-size: 3.8rem;
   }
