@@ -1,23 +1,50 @@
 /* eslint-disable @next/next/no-img-element */
+import Image from "next/image";
 import styles from "../styles/Header.module.css";
 
 const Header = () => {
   return (
     <header className={styles.header}>
       <div className={styles.imageBG}>
-        <img
+        <Image
           src="/header-image.png"
-          alt="Houdhaifa lebbad website"
-          className={styles.imageBG}
+          alt="Houdhaifa Lebbad"
+          width="1045"
+          height="992"
+          layout="responsive"
         />
       </div>
 
       <nav className={styles.navbar}>
         <h2 className={styles.name}>Houdhaifa Lebbad</h2>
         <ul className={styles.navList}>
-          <li>Twitter</li>
-          <li>Linkedin</li>
-          <li>Contact</li>
+          <li className={styles.navItem}>
+            <a
+              href="https://twitter.com/houdhaifalebbad"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Twitter
+            </a>
+          </li>
+          <li className={styles.navItem}>
+            <a
+              href="https://www.linkedin.com/in/houdhaifalebbad/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Linkedin
+            </a>
+          </li>
+          <li className={styles.navItem}>
+            <a
+              href="mailto:houdhaifalebbad@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Contact
+            </a>
+          </li>
         </ul>
       </nav>
       <div className={styles.heading}>
@@ -33,6 +60,7 @@ const Header = () => {
         <button
           style={{ backgroundColor: "#000", color: "#FFF", width: "10rem" }}
           className={`${styles.button} button`}
+          onClick={() => window.scrollTo(0, 1050)}
         >
           View work
         </button>

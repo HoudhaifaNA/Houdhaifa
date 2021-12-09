@@ -11,6 +11,7 @@
 
 html {
   font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
 /* 1800px  1rem = 12, 12/16*/

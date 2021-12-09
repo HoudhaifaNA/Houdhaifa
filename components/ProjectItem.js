@@ -21,7 +21,7 @@ const ProjectItem = ({ project }) => {
       <div className={styles.projectImage}>
         <Image
           src={`/${project.image}`}
-          alt="ananas"
+          alt={project.name}
           width="680"
           height="403"
           layout="responsive"
