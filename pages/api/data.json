@@ -1,0 +1,55 @@
+{
+  "projectsList": [
+    {
+      "slug": "utube-polls",
+      "name": "uTube Polls",
+      "summary": "uTube Polls is a SaaS for making polls on YouTube easier and more convenient. uTube Polls come with a web app and a chrome extension.",
+      "image": "project-1.png",
+      "tags": [
+        "React",
+        "Redux",
+        "Node",
+        "Express",
+        "MongoDB",
+        "YouTube API V3",
+        "OAuth2"
+      ],
+      "link": "https://utubepolls.com/"
+    },
+    {
+      "slug": "francisco",
+      "name": "Francisco",
+      "summary": "uTube Polls is a SaaS for making polls on YouTube easier and more convenient. uTube Polls come with a web app and a chrome extension.",
+      "image": "project-2.png",
+      "tags": ["React", "Redux", "Node", "Express", "MongoDB", "ChartJS"],
+      "link": "#",
+      "subject": "Request a demo of Francisco",
+      "type": "right"
+    },
+    {
+      "slug": "wejdli",
+      "name": "Wejdli",
+      "summary": "uTube Polls is a SaaS for making polls on YouTube easier and more convenient. uTube Polls come with a web app and a chrome extension.",
+      "image": "project-3.png",
+      "tags": [
+        "Next",
+        "Edge Functions",
+        "Node",
+        "Express",
+        "Authentication",
+        "JWT"
+      ],
+      "link": "#",
+      "subject": "Request a demo of Wejdli"
+    },
+    {
+      "slug": "z-auto",
+      "name": "Z-AUTO",
+      "summary": "uTube Polls is a SaaS for making polls on YouTube easier and more convenient. uTube Polls come with a web app and a chrome extension.",
+      "image": "project-4.png",
+      "tags": ["HTML", "CSS", "Python", "MongoDB"],
+      "link": "http://z-auto.herokuapp.com/",
+      "type": "right"
+    }
+  ]
+}
