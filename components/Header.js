@@ -7,7 +7,7 @@ const Header = () => {
     <header className={styles.header}>
       <div className={styles.imageBG}>
         <Image
-          src="/header-image.png"
+          src="/header-image.webp"
           alt="Houdhaifa Lebbad"
           width="1045"
           height="992"

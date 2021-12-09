@@ -11,6 +11,11 @@ const Home = ({ projectsList }) => {
   return (
     <>
       <Head>
+        <meta name="description" content="Houdhaifa Lebbad's website"></meta>
+        <meta
+          name="keyword"
+          content="Houdhaifa Lebbad, web development, web design, fullstack developer, frontend developer"
+        ></meta>
         <title>Houdhaifa Lebbad</title>
       </Head>
       <main className={styles.home}>

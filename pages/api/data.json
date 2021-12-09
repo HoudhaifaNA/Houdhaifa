@@ -4,7 +4,7 @@
       "slug": "utube-polls",
       "name": "uTube Polls",
       "summary": "uTube Polls is a SaaS for making polls on YouTube easier and more convenient. uTube Polls come with a web app and a chrome extension.",
-      "image": "project-1.png",
+      "image": "project-1.webp",
       "tags": [
         "React",
         "Redux",
@@ -20,7 +20,7 @@
       "slug": "francisco",
       "name": "Francisco",
       "summary": "Francisco is a POS software to order food from a local restaurant. Francisco comes with a great set of features that help the owner grow their business",
-      "image": "project-2.png",
+      "image": "project-2.webp",
       "tags": ["React", "Redux", "Node", "Express", "MongoDB", "ChartJS"],
       "link": "#",
       "subject": "Request a demo of Francisco",
@@ -30,7 +30,7 @@
       "slug": "wejdli",
       "name": "Wejdli",
       "summary": "Wejdli is my own future business, it’s an food ordering app. It focuses on the people in my country, because we don’t a good option for this.",
-      "image": "project-3.png",
+      "image": "project-3.webp",
       "tags": [
         "Next",
         "Edge Functions",
@@ -46,7 +46,7 @@
       "slug": "z-auto",
       "name": "Z-AUTO",
       "summary": "Z-AUTO is a website for a car dealership to help the business get known and customers communicate with the dealership.It has messages dashboard and newsletter.",
-      "image": "project-4.png",
+      "image": "project-4.webp",
       "tags": ["HTML", "CSS", "Python", "MongoDB"],
       "link": "http://z-auto.herokuapp.com/",
       "type": "right"
