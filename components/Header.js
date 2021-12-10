@@ -49,13 +49,13 @@ const Header = () => {
       </nav>
       <div className={styles.heading}>
         <h1 className={styles.primaryTitle}>
-          A Fullstack web developer loves to create product that help people’s
+          A Fullstack web developer who creates products that help people’s
           everyday life
         </h1>
         <h2 className={styles.secondaryTitle}>
-          I am Houdhaifa, a 21 year old self-taught Javascript Developer,
-          currently living in Algeria. Fireship.io is a gateway drug for
-          developers who want to build awesome web & mobile apps.
+          I am Houdhaifa, a fullstack web Developer. I create affordable and
+          great-quality websites and web apps that help businesses grow and get
+          more clients.
         </h2>
         <button
           style={{ backgroundColor: "#000", color: "#FFF", width: "10rem" }}

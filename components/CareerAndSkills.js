@@ -4,13 +4,16 @@ import styles from "../styles/CareerAndSkills.module.css";
 const skills = [
   "HTML",
   "CSS",
+  "SASS",
   "Javascript",
   "React",
   "Redux",
   "Next",
-  "Nodejs",
+  "Node",
   "Express",
   "Authentication",
+  "APIs",
+  "Electron",
   "UI & UX",
 ];
 
@@ -20,12 +23,10 @@ const CareerAndSkills = () => {
       <div className={styles.block}>
         <h2 className={styles.heading}>My career and skills</h2>
         <p className={styles.careerText}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempor velit
-          vestibulum, volutpat elementum sociis amet, nunc nibh. Habitasse
-          suspendisse non bibendum pharetra, aliquam duis porta viverra ut.
-          Augue ac semper eget at sed duis integer sed. Faucibus sed justo, et
-          dui arcu enim bibendum ante vitae. Vitae ullamcorper in in tortor,
-          diam. Vel sed posuere porttitor turpis lobortis senectus.
+          I like to challenge myself and learn new stuff every day. My career so
+          far has been some SaaS products like Wejdli or uTube Polls, and
+          freelancing gigs like Z-AUTO and Learning assessments game. I work
+          with these technologies and I have 4 years of experience.
         </p>
       </div>
       <div className={`${styles.block} ${styles.skills}`}>

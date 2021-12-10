@@ -76,3 +76,9 @@ button {
     margin-top: 1rem;
   }
 }
+@media only screen and (max-width: 340px) {
+  button {
+    font-size: 1.4rem;
+    margin-top: 1rem;
+  }
+}

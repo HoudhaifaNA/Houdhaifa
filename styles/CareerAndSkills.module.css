@@ -29,6 +29,8 @@
 .skillItem {
   margin-right: 1rem;
   margin-bottom: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 @media only screen and (max-width: 900px) {
