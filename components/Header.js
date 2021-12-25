@@ -20,11 +20,11 @@ const Header = () => {
         <ul className={styles.navList}>
           <li className={styles.navItem}>
             <a
-              href="https://twitter.com/houdhaifalebbad"
+              href="https://github.com/HoudhaifaNA"
               target="_blank"
               rel="noreferrer"
             >
-              Twitter
+              Github
             </a>
           </li>
           <li className={styles.navItem}>
