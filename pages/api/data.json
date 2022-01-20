@@ -30,7 +30,8 @@
         "YouTube API V3",
         "OAuth2"
       ],
-      "link": "https://utubepolls.com/"
+      "link": "https://utubepolls.com/",
+      "type": "right"
     },
     {
       "slug": "francisco",
@@ -39,8 +40,7 @@
       "image": "project-2.webp",
       "tags": ["React", "Redux", "Node", "Express", "MongoDB", "ChartJS"],
       "link": "#",
-      "subject": "Request a demo of Francisco",
-      "type": "right"
+      "subject": "Request a demo of Francisco"
     },
     {
       "slug": "wejdli",
@@ -56,7 +56,8 @@
         "JWT"
       ],
       "link": "#",
-      "subject": "Request a demo of Wejdli"
+      "subject": "Request a demo of Wejdli",
+      "type": "right"
     },
     {
       "slug": "z-auto",
@@ -64,8 +65,7 @@
       "summary": "Z-AUTO is a website for a car dealership to help the business get known and customers communicate with the dealership.It has messages dashboard and newsletter.",
       "image": "project-4.webp",
       "tags": ["HTML", "CSS", "Python", "MongoDB"],
-      "link": "http://z-auto.herokuapp.com/",
-      "type": "right"
+      "link": "http://z-auto.herokuapp.com/"
     }
   ]
 }
